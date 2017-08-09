@@ -20,3 +20,4 @@ ecmascript
 accounts-password
 dotansimha:accounts-ui-angular
 dispatch:mocha
+practicalmeteor:mocha
