@@ -19,4 +19,4 @@ angular-templates
 ecmascript
 accounts-password
 dotansimha:accounts-ui-angular
-practicalmeteor:mocha
+dispatch:mocha
